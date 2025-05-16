@@ -1,4 +1,4 @@
 export const config = {
-    url: "dsadsada",
-    port: 3070
+    url: "mongodb://localhost:2710/node",
+    port: 8000
 }
